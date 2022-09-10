@@ -1,0 +1,6 @@
+const divide = () =>{
+
+    console('divide')
+
+
+}
